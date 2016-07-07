@@ -1,4 +1,4 @@
-@font-face{font-family: noticia; src: url(noticiatext-regular.ttf);}
+@font-face{font-family: noticia; src: url(NoticiaText-Regular.ttf);}
 @font-face{font-family:future; src: url(CallunaSansRegular-webfont.ttf);}
 html{background-color:#eae5e5;color:#4d4d4d;}
 body{font-family:future;font-size:16px;margin:0;}
