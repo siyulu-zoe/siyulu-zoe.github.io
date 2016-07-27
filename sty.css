@@ -32,7 +32,16 @@ body,html,iframe { width: 100%; height: 100%; margin: 0; border: 0; }
     text-align:left;
     padding-left:100px;
 }
-
+header > h1 { 
+    display: inline-block; 
+    vertical-align: middle;
+}
+header span { 
+    display: inline-block; 
+    margin-left: 20px; 
+   
+    vertical-align: middle;
+}
 ul {
     list-style-type: none;
     margin: 0;
