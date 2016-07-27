@@ -1,21 +1,16 @@
 #section {
-	/*position: absolute;*/
 	width: 80%;
 	position: relative;
 	margin: 1% auto;
 	padding-top:0px;
-	/*padding-left:100px; */
 	line-height:160%;
-    clear:both;
-    padding-right:100px; 
-    text-align:center; 
+	clear:both;
+	padding-right:100px; 
+	text-align:center; 
 }
 #section a:link{
 	color:#8b8b8b;
-	/*text-decoration:underline; 
-	-moz-text-decoration-color: #d1c926; /* Code for Firefox 
-    -webkit-text-decoration-color: #d1c926;*/
-    text-decoration: none;
+	text-decoration: none;
 	border-bottom: 2px solid #d1c926;
 }
 #section a:visited{
