@@ -71,3 +71,18 @@
     text-decoration: none;
     border-bottom: 2px solid #e83556;
 }
+#map {
+    width:660px;
+    height:480px;
+    float:right;
+    clear:right;
+    padding-right:100px; 
+}
+#words {
+    padding-top:20px;
+    width:350px;
+    float:left;
+    clear:left;
+    padding-left:100px; 
+
+}
